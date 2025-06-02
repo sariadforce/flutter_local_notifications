@@ -4,6 +4,6 @@ pubspec.lock
 *.DS_Store
 .dart_tool
 *.dll
-
+pubspec_overrides.yaml
 # Melos
 pubspec_overrides.yaml
